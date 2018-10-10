@@ -1,0 +1,17 @@
+c:\users\klas\source\repos\Stff\DAL.SqlCompact\bin\Debug\App_Data\div5mellersta.mdf
+c:\users\klas\source\repos\Stff\DAL.SqlCompact\bin\Debug\App_Data\div5mellersta_log.ldf
+c:\users\klas\source\repos\Stff\DAL.SqlCompact\bin\Debug\DAL.SqlCompact.dll.config
+c:\users\klas\source\repos\Stff\DAL.SqlCompact\bin\Debug\DAL.SqlCompact.dll
+c:\users\klas\source\repos\Stff\DAL.SqlCompact\bin\Debug\DAL.SqlCompact.pdb
+c:\users\klas\source\repos\Stff\DAL.SqlCompact\bin\Debug\EntityFramework.dll
+c:\users\klas\source\repos\Stff\DAL.SqlCompact\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\klas\source\repos\Stff\DAL.SqlCompact\bin\Debug\Shared.dll
+c:\users\klas\source\repos\Stff\DAL.SqlCompact\bin\Debug\Shared.pdb
+c:\users\klas\source\repos\Stff\DAL.SqlCompact\bin\Debug\EntityFramework.xml
+c:\users\klas\source\repos\Stff\DAL.SqlCompact\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\klas\source\repos\Stff\DAL.SqlCompact\obj\Debug\DAL.SqlCompact.csprojResolveAssemblyReference.cache
+c:\users\klas\source\repos\Stff\DAL.SqlCompact\obj\Debug\DAL.SqlCompact.Properties.Resources.resources
+c:\users\klas\source\repos\Stff\DAL.SqlCompact\obj\Debug\DAL.SqlCompact.csproj.GenerateResource.Cache
+c:\users\klas\source\repos\Stff\DAL.SqlCompact\obj\Debug\DAL.SqlCompact.csproj.CoreCompileInputs.cache
+c:\users\klas\source\repos\Stff\DAL.SqlCompact\obj\Debug\DAL.SqlCompact.dll
+c:\users\klas\source\repos\Stff\DAL.SqlCompact\obj\Debug\DAL.SqlCompact.pdb

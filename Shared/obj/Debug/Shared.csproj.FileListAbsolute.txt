@@ -1,0 +1,6 @@
+c:\users\klas\source\repos\Stff\Shared\bin\Debug\Shared.dll
+c:\users\klas\source\repos\Stff\Shared\bin\Debug\Shared.pdb
+c:\users\klas\source\repos\Stff\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+c:\users\klas\source\repos\Stff\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+c:\users\klas\source\repos\Stff\Shared\obj\Debug\Shared.dll
+c:\users\klas\source\repos\Stff\Shared\obj\Debug\Shared.pdb

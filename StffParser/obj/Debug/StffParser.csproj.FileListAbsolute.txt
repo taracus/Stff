@@ -1,0 +1,14 @@
+c:\users\klas\source\repos\Stff\StffParser\bin\Debug\StffParser.exe.config
+c:\users\klas\source\repos\Stff\StffParser\bin\Debug\StffParser.exe
+c:\users\klas\source\repos\Stff\StffParser\bin\Debug\StffParser.pdb
+c:\users\klas\source\repos\Stff\StffParser\obj\Debug\StffParser.csprojResolveAssemblyReference.cache
+c:\users\klas\source\repos\Stff\StffParser\obj\Debug\StffParser.csproj.CoreCompileInputs.cache
+c:\users\klas\source\repos\Stff\StffParser\obj\Debug\StffParser.exe
+c:\users\klas\source\repos\Stff\StffParser\obj\Debug\StffParser.pdb
+c:\users\klas\source\repos\Stff\StffParser\bin\Debug\Shared.dll
+c:\users\klas\source\repos\Stff\StffParser\bin\Debug\Shared.pdb
+c:\users\klas\source\repos\Stff\StffParser\bin\Debug\App_Data\div5mellersta.mdf
+c:\users\klas\source\repos\Stff\StffParser\bin\Debug\App_Data\div5mellersta_log.ldf
+c:\users\klas\source\repos\Stff\StffParser\bin\Debug\DAL.SqlCompact.dll
+c:\users\klas\source\repos\Stff\StffParser\bin\Debug\DAL.SqlCompact.pdb
+c:\users\klas\source\repos\Stff\StffParser\bin\Debug\DAL.SqlCompact.dll.config
